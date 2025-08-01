@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "BreachBlocker",
+    "version": "1.0",
+    "description": "A browser extension for scanning vulnerabilities, page speed, and data protection.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.svg"
+    }
+  }
+  
